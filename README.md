@@ -52,3 +52,4 @@ En el archivo modificado hemos corregido dichas alertas y errores, los más sign
 -Agregar etiquetas <label> a los campos del formulario.
 
 Accede a mi perfil para más información con capturas detalladas del proceso: [AntonioManresa9](https://github.com/AntonioManresa9).
+
