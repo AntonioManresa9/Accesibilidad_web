@@ -45,7 +45,7 @@ En el archivo modificado hemos corregido dichas alertas y errores, los más sign
 
 -Agregar el atributo lang al elemento <html>.
 -Mejorar el contraste de colores (ejemplo, texto negro sobre fondo blanco).
--Reemplazar los <div> por encabezados (<h1>,<h2>,etc).
+
 
 
 
