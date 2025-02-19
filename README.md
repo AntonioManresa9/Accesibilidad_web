@@ -34,6 +34,8 @@ Errores:
 -Formulario sin etiquetas.
 -Tabla sin encabezados.
 
+
+
 Alertas:
 
 -Uso de <div> en lugar de encabezados.
@@ -43,5 +45,6 @@ Alertas:
 
 En el archivo modificado hemos corregido dichas alertas y errores, los más significativos son: 
 
+-Agregar el atributo lang al elemento <html>.
 
 Accede a mi index.html para más información con capturas detalladas del proceso: [AntonioManresa9](https://github.com/AntonioManresa9).
