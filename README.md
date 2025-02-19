@@ -51,4 +51,4 @@ En el archivo modificado hemos corregido dichas alertas y errores, los más sign
 -Agregar un atributo alt descriptivo a la imagen.<br>
 -Agregar etiquetas label a los campos del formulario.<br>
 
-Accede a mi perfil para más información con capturas detalladas del proceso: [AntonioManresa9](https://github.com/AntonioManresa9).
+Accede a mi perfil para más información con capturas detalladas del proceso: [AntonioManresa9]([https://github.com/AntonioManresa9](https://antoniomanresa9.github.io/Accesibilidad_web/)).
