@@ -26,17 +26,17 @@ El archivo original tenía muchos problemas de accesibilidad, entre los que se e
 
 Errores:
 
--Falta de atributo lang.
--Contraste insuficiente entre el texto y el fondo.
--Imagen sin atributo alt.
--Enlaces no descriptivos ("Click aquí").
--Botón sin texto accesible.
--Formulario sin etiquetas.
--Tabla sin encabezados.
+-Falta de atributo lang.<br>
+-Contraste insuficiente entre el texto y el fondo.<br>
+-Imagen sin atributo alt.<br>
+-Enlaces no descriptivos ("Click aquí").<br>
+-Botón sin texto accesible.<br>
+-Formulario sin etiquetas.<br>
+-Tabla sin encabezados.<br>
 
 Alertas:
 
--Uso de <div> en lugar de encabezados.<br>
+-Uso de div en lugar de encabezados.<br>
 -Texto en mayúsculas.<br>
 
 ## Archivo Modificado (`index_Bueno.html`)
