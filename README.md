@@ -48,7 +48,7 @@ En el archivo modificado hemos corregido dichas alertas y errores, los más sign
 -Reemplazar los <div> por encabezados (<h1>,<h2>,etc).
 -Hacer que los enlaces sean descriptivos (ejemplo, "Descargar XML de Factura 1").
 -Agregar texto o atributos ARIA al botón.
--Agregar un atributo alt descriptivo a la imagen.
+
 
 
 Accede a mi index.html para más información con capturas detalladas del proceso: [AntonioManresa9](https://github.com/AntonioManresa9).
