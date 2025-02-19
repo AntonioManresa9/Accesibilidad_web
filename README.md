@@ -49,6 +49,6 @@ En el archivo modificado hemos corregido dichas alertas y errores, los más sign
 -Hacer que los enlaces sean descriptivos (ejemplo, "Descargar XML de Factura 1").
 -Agregar texto o atributos ARIA al botón.
 -Agregar un atributo alt descriptivo a la imagen.
--Agregar etiquetas <label> a los campos del formulario.
+
 
 Accede a mi index.html para más información con capturas detalladas del proceso: [AntonioManresa9](https://github.com/AntonioManresa9).
