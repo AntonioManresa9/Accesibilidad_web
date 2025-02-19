@@ -43,12 +43,7 @@ Alertas:
 
 En el archivo modificado hemos corregido dichas alertas y errores, los más significativos son: 
 
--Agregar el atributo lang al elemento <html>.
+-Agregar el atributo lang al elemento <html>.<br>
 -Mejorar el contraste de colores (ejemplo, texto negro sobre fondo blanco).
-
-
-
-
-
 
 Accede a mi index.html para más información con capturas detalladas del proceso: [AntonioManresa9](https://github.com/AntonioManresa9).
