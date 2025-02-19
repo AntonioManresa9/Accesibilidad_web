@@ -7,6 +7,19 @@ Este repositorio documenta el proceso de mejora de un archivo HTML con problemas
 
 ---
 
+## Desarrollo del PROMPT: 
+
+El objetivo es mejorar la accesibilidad del código HTML que te voy a pasar para cumplir con los estándares WCAG 2.2 en los niveles AA. Para ello, se deben aplicar varias mejoras, incluyendo:
+
+    -Uso de etiquetas semánticas en lugar de div genéricos.
+    -Implementación de atributos ARIA para mejorar la experiencia de usuarios con tecnologías de asistencia.
+    -Corrección de jerarquía de encabezados para mantener una estructura lógica.
+    -Mejora del contraste entre texto y fondo.
+    -Optimización de la navegación por teclado, asegurando accesibilidad en elementos interactivos.
+    -Corrección de formularios, incluyendo etiquetas label y atributos aria-required.
+    -Claridad en enlaces y botones, asegurando que sus descripciones sean comprensibles.
+    -Validación del código con herramientas de accesibilidad como WAVE, Axe y Lighthouse.
+
 ## Archivo Original (`index_MALO.html`)
 
 El archivo original tenía muchos problemas de accesibilidad, entre los que se encuentran:
@@ -31,21 +44,11 @@ Alertas:
 En el archivo modificado hemos corregido dichas alertas y errores, los más significativos son: 
 
 -Agregar el atributo lang al elemento <html>.
-
 -Mejorar el contraste de colores (por ejemplo, texto negro sobre fondo blanco).
-
 -Reemplazar los <div> por encabezados (<h1>, <h2>, etc.).
-
 -Hacer que los enlaces sean descriptivos (por ejemplo, "Descargar XML de Factura 1").
-
 -Agregar texto o atributos ARIA al botón.
-
 -Agregar un atributo alt descriptivo a la imagen.
-
 -Agregar etiquetas <label> a los campos del formulario.
 
--Usar <th> para los encabezados de la tabla.
-
--Evitar el uso excesivo de mayúsculas.
-
--Usar elementos semánticos como <header>, <main>, <footer>, etc.
+Accede a mi perfil para más información con capturas detalladas del proceso: [AntonioManresa9](https://github.com/AntonioManresa9).

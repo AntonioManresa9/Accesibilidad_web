@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html> <!-- Falta el atributo lang -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facturas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #1e3c72, #2a5298, #3b5998);
+            color: yellow; /* Contraste insuficiente con el fondo */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.9); /* Fondo claro con texto amarillo (contraste terrible) */
+            border-radius: 10px;
+        }
+        h2 {
+            margin-bottom: 10px;
+            border-bottom: 2px solid #1e90ff;
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            color: #1e90ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #00bfff;
+        }
+        .footer {
+            margin-top: 20px;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 5px;
+        }
+        .button {
+            background-color: #1e90ff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div>FACTURA 1</div> <!-- Uso de div en lugar de h2 -->
+        <ul>
+            <li><a href="./xml/factura.xml" target="_blank">XML Factura 1</a></li> <!-- Enlace no descriptivo -->
+            <li><a href="./xslt/transformacion.xslt" target="_blank">XSLT Factura 1</a></li> <!-- Enlace no descriptivo -->
+            <li><a href="./html/factura.html" target="_blank">HTML Factura 1</a></li> <!-- Enlace no descriptivo -->
+        </ul>
+    </div>
+    
+    <div class="container" style="margin-top: 40px;">
+        <div>FACTURA 2</div> <!-- Uso de div en lugar de h2 -->
+        <ul>
+            <li><a href="./xml/factura2.xml" target="_blank">XML Factura 2</a></li> <!-- Enlace no descriptivo -->
+            <li><a href="./xslt/transformacion2.xslt" target="_blank">XSLT Factura 2</a></li> <!-- Enlace no descriptivo -->
+            <li><a href="./html/factura2.html" target="_blank">HTML Factura 2</a></li> <!-- Enlace no descriptivo -->
+        </ul>
+    </div>
+    
+    <div class="footer">
+        <a href="https://github.com/AntonioManresa9/xslt_facturas/blob/main/README.md" download>Accede al README.md</a>
+    </div>
+
+    <!-- Botón sin texto accesible -->
+    <button class="button" style="margin-top: 20px;"></button>
+
+    <!-- Imagen sin atributo alt -->
+    <img src="https://via.placeholder.com/150" style="margin-top: 20px;">
+
+    <!-- Formulario sin etiquetas -->
+    <form style="margin-top: 20px;">
+        <input type="text" name="nombre" placeholder="Nombre">
+        <input type="submit" value="Enviar">
+    </form>
+
+    <!-- Tabla sin encabezados -->
+    <table style="margin-top: 20px; color: white;">
+        <tr>
+            <td>Dato 1</td>
+            <td>Dato 2</td>
+        </tr>
+        <tr>
+            <td>123</td>
+            <td>456</td>
+        </tr>
+    </table>
+
+    <!-- Texto en mayúsculas (difícil de leer) -->
+    <div style="margin-top: 20px; font-size: 24px; color: white;">
+        ¡HOLA PACO, ESPERO QUE NO TE MOLESTE MUCHO ESTA PÁGINA!
+    </div>
+</body>
+
+</html>
