@@ -43,12 +43,12 @@ Alertas:
 
 En el archivo modificado hemos corregido dichas alertas y errores, los más significativos son: 
 
--Agregar el atributo lang al elemento <html>.
--Mejorar el contraste de colores (por ejemplo, texto negro sobre fondo blanco).
--Reemplazar los <div> por encabezados (<h1>, <h2>, etc.).
--Hacer que los enlaces sean descriptivos (por ejemplo, "Descargar XML de Factura 1").
--Agregar texto o atributos ARIA al botón.
--Agregar un atributo alt descriptivo a la imagen.
--Agregar etiquetas <label> a los campos del formulario.
+-Agregar el atributo lang al elemento html.<br>
+-Mejorar el contraste de colores (por ejemplo, texto negro sobre fondo blanco).<br>
+-Reemplazar los div por encabezados (h1, h2, etc.).<br>
+-Hacer que los enlaces sean descriptivos (por ejemplo, "Descargar XML de Factura 1").<br>
+-Agregar texto o atributos ARIA al botón.<br>
+-Agregar un atributo alt descriptivo a la imagen.<br>
+-Agregar etiquetas label a los campos del formulario.<br>
 
 Accede a mi perfil para más información con capturas detalladas del proceso: [AntonioManresa9](https://github.com/AntonioManresa9).
