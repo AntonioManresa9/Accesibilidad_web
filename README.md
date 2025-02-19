@@ -36,8 +36,8 @@ Errores:
 
 Alertas:
 
--Uso de <div> en lugar de encabezados.
--Texto en mayúsculas.
+-Uso de <div> en lugar de encabezados.<br>
+-Texto en mayúsculas.<br>
 
 ## Archivo Modificado (`index_Bueno.html`)
 
